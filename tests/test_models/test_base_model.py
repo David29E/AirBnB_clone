@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 """
-    create class TestBaseModel.
+    create class TestBaseModel
 """
 
 
@@ -12,7 +12,7 @@ import os
 
 
 class TestBaseModel(unittest.TestCase):
-    """Represent a TestBaseModel."""
+    """Hbnb  Test for BaseModel"""
 
     def setUp(self):
         """SetUp method"""
